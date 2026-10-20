@@ -1,0 +1,141 @@
+15:34:59.251 I <4 · Logger> [Logger] PclLogger 日志初始化结束
+15:34:59.293 I [Application] 程序版本：正式版 2.13.1.1 (408)
+15:34:59.293 I [Application] 识别码：3313-CC5F-738F-D8D0
+15:34:59.293 I [Application] 程序路径：D:\Game\1.16.5\Plain Craft Launcher 2.exe
+15:34:59.293 I [Application] 系统编码：gb2312 (936, GBK=True)
+15:34:59.294 I [Application] 管理员权限：False
+15:34:59.294 I [Application] 第一阶段加载用时：82 ms
+15:34:59.462 I [FormMain] 版本号从 413 降低到 408
+15:34:59.473 I [ModSecret] 刷新主题：0
+15:34:59.509 I [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Loading
+15:34:59.509 I [FormMain] 第二阶段加载用时：204 ms
+15:34:59.517 I <5 · L/Minecraft Folder List> [ModLoader] 加载器 LoaderTask`2 Minecraft Folder List 状态改变：Finished
+15:34:59.701 I [FormMain] 从设置更新背景图片与标题栏样式
+15:34:59.743 I [FormMain] 窗口已置顶，位置：(403.333333333333, 234.666666666667), 900 x 550
+15:34:59.744 I [FormMain] 第三阶段加载用时：47 ms
+15:34:59.746 I <7 · Animation> [ModAnimation] 动画线程开始
+15:34:59.752 I <11 · Version Check> [ModMinecraft] 当前选择的 Minecraft 文件夹：D:\Game\1.16.5\.minecraft\
+15:34:59.758 I <11 · Version Check> [PageLaunchLeft] 当前选择的 Minecraft 版本无效：D:\Game\1.16.5\.minecraft\versions\1.21.11-Fabric 0.19.5\
+15:34:59.763 I <11 · Version Check> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Loading
+15:34:59.768 I <12 · L/Minecraft Instance List> [ModMinecraft] 文件夹列表变更，重载所有版本
+15:34:59.794 I [ModLoader] 加载器 LoaderTask`2 Loader Skin Ms 状态改变：Loading
+15:34:59.800 I <13 · L/Loader Skin Ms> [ModLoader] 加载器 LoaderTask`2 Loader Skin Ms 状态改变：Finished
+15:34:59.840 I [PageLaunchRight] 实例化：清空主页 UI，来源为空
+15:34:59.864 I [MySkin] 载入头像成功：Loader Skin Ms
+15:34:59.891 I <12 · L/Minecraft Instance List> [ModMinecraft] 当前选择的 Minecraft 版本：D:\Game\1.16.5\.minecraft\versions\1.12.2-Forge_14.23.5.2847-OptiFine_G5\
+15:34:59.891 I <12 · L/Minecraft Instance List> [ModMinecraft] 自动选择 Minecraft 版本：D:\Game\1.16.5\.minecraft\versions\1.12.2-Forge_14.23.5.2847-OptiFine_G5\
+15:34:59.891 I <12 · L/Minecraft Instance List> [ModLoader] 加载器 LoaderTask`2 Minecraft Instance List 状态改变：Finished
+15:34:59.899 I [PageLaunchLeft] 启动按钮：正在加载 Minecraft 版本
+15:34:59.902 I <11 · Version Check> [PageLaunchLeft] 自动选择 Minecraft 版本：D:\Game\1.16.5\.minecraft\versions\1.12.2-Forge_14.23.5.2847-OptiFine_G5\
+15:34:59.904 I [PageLaunchLeft] 启动按钮：Minecraft 版本：D:\Game\1.16.5\.minecraft\versions\1.12.2-Forge_14.23.5.2847-OptiFine_G5\
+15:34:59.908 I [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Loading
+15:34:59.910 I <16 · L/登录> [ModLaunch] 登录加载已开始
+15:34:59.910 I <16 · L/登录> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Loading
+15:34:59.913 I <17 · L/Loader Login Ms> [ModLaunch] 登录方式：正版（YY_QiuFeng）
+15:34:59.914 I <17 · L/Loader Login Ms> [ModLaunch] 无需登录，AccessToken 尚未过期
+15:34:59.914 I <17 · L/Loader Login Ms> [ModLaunch] 微软登录结束，AccessToken 将在 2026/10/21 9:41:30 过期
+15:34:59.914 I <17 · L/Loader Login Ms> [ModLoader] 加载器 LoaderTask`2 Loader Login Ms 状态改变：Finished
+15:34:59.922 I <9 · 初始化> [ModJava] 共有 7 个可用的 Java：
+15:34:59.922 I <9 · 初始化> [ModJava] - Java 21 (21.0.7.0)：C:\Users\***\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+15:34:59.922 I <9 · 初始化> [ModJava] - Java 17 (17.0.19.0)：C:\Program Files\Eclipse Adoptium\jdk-17.0.19.10-hotspot\bin\
+15:34:59.922 I <9 · 初始化> [ModJava] - Java 17 (17.0.15.0)：C:\Users\***\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+15:34:59.922 I <9 · 初始化> [ModJava] - Java 25 (25.0.1.0)：C:\Users\***\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+15:34:59.922 I <9 · 初始化> [ModJava] - Java 26 (26.0.1.0)：C:\Program Files\Java\jdk-26.0.1\bin\
+15:34:59.922 I <9 · 初始化> [ModJava] - Java 8 (8.0.51.0)：C:\Users\***\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+15:34:59.922 I <9 · 初始化> [ModJava] - Java 26 (26.0.1.0)：D:\Game\jdk-26.0.1\bin\
+15:34:59.933 I <16 · L/登录> [ModLaunch] 登录加载已结束
+15:34:59.933 I <16 · L/登录> [ModLoader] 加载器 LoaderTask`2 登录 状态改变：Finished
+15:35:00.027 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+15:35:00.028 I <9 · 初始化> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Loading
+15:35:00.029 I <20 · TryClearTaskTemp> [ModMain] 开始清理任务缓存文件夹
+15:35:00.030 I <21 · Telemetry> [ModMain] 匿名数据上报：启动
+15:35:00.030 I <20 · TryClearTaskTemp> [ModMain] 已清理任务缓存文件夹
+15:35:00.031 I <18 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+15:35:00.038 I <19 · L/PCL 配置更新> [ModSecret] 已读取本地缓存的配置：38
+15:35:00.039 I <19 · L/PCL 配置更新> [ModNet] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+15:35:00.146 I <19 · L/PCL 配置更新> [ModSecret] 本地公告编号：230，服务器公告：230|414|413|6|38，无需更新
+15:35:00.148 I <19 · L/PCL 配置更新> [ModLoader] 加载器 LoaderTask`2 PCL 配置更新 状态改变：Finished
+15:35:00.320 I <18 · L/DlClientList Mojang> [ModDownload] Mojang 官方源加载耗时：290ms，可优先使用官方源
+15:35:00.322 I <18 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+15:35:00.462 I [FormMain] DPI：144，系统版本：Microsoft Windows NT 10.0.26200.0，PCL 位置：D:\Game\1.16.5\Plain Craft Launcher 2.exe
+15:35:05.982 I [MyRadioButton] 按下单选按钮：下载
+15:35:06.042 I [ModLoader] 加载器 LoaderTask`2 DlClientList Main 状态改变：Loading
+15:35:06.048 I <21 · L/DlClientList Main> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Loading
+15:35:06.048 I [FormMain] 切换主要页面：Download, -1
+15:35:06.048 I <29 · L/DlClientList Mojang> [ModNet] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+15:35:06.064 I <29 · L/DlClientList Mojang> [ModLoader] 加载器 LoaderTask`2 DlClientList Mojang 状态改变：Finished
+15:35:06.118 I <21 · L/DlClientList Main> [ModLoader] 加载器 LoaderTask`2 DlClientList Main 状态改变：Finished
+15:35:06.127 I [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Loading
+15:35:06.129 I [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Loading
+15:35:06.130 I [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Loading
+15:35:06.130 I <32 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Loading
+15:35:06.132 I [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Loading
+15:35:06.133 I <33 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Loading
+15:35:06.134 I <34 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Loading
+15:35:06.134 I <35 · L/DlOptiFineList Official> [ModNet] 发起网络请求（GET，https://optifine.net/downloads），最大超时 10000
+15:35:06.135 I <38 · L/DlFabricList Official> [ModNet] 发起网络请求（GET，https://meta.fabricmc.net/v2/versions），最大超时 10000
+15:35:06.135 I <37 · L/DlLiteLoaderList Official> [ModNet] 发起网络请求（GET，https://dl.liteloader.com/versions/versions.json），最大超时 10000
+15:35:06.136 I <36 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Loading
+15:35:06.137 I <39 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 10000
+15:35:06.143 I <44 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存开始
+15:35:06.143 I <44 · ForgeRecommendedRefresh> [ModNet] 发起网络请求（GET，https://bmclapi2.bangbang93.com/forge/promos），最大超时 10000
+15:35:06.145 I <44 · ForgeRecommendedRefresh> [ModDownloadLib] 刷新 Forge 推荐版本缓存成功
+15:35:06.789 I <37 · L/DlLiteLoaderList Official> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Official 状态改变：Finished
+15:35:06.799 I <38 · L/DlFabricList Official> [ModLoader] 加载器 LoaderTask`2 DlFabricList Official 状态改变：Finished
+15:35:06.802 I <34 · L/DlFabricList Main> [ModLoader] 加载器 LoaderTask`2 DlFabricList Main 状态改变：Finished
+15:35:06.802 I <33 · L/DlLiteLoaderList Main> [ModLoader] 加载器 LoaderTask`2 DlLiteLoaderList Main 状态改变：Finished
+15:35:07.264 I <35 · L/DlOptiFineList Official> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Official 状态改变：Finished
+15:35:07.268 I <32 · L/DlOptiFineList Main> [ModLoader] 加载器 LoaderTask`2 DlOptiFineList Main 状态改变：Finished
+15:35:07.444 I [MyCard] 展开卡片：正式版
+15:35:16.175 W <39 · L/DlNeoForgeList Official> [ModNet] 网络请求失败（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge）：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+15:35:16.175 W <39 · L/DlNeoForgeList Official> [ModNet] ——————— 详细错误信息 ———————
+15:35:16.175 W <39 · L/DlNeoForgeList Official> [ModNet] 连接服务器超时，请稍后再试，或使用 VPN 改善网络环境（GET, https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge） (Status=Timeout)
+15:35:16.175 W <39 · L/DlNeoForgeList Official> [ModNet]    在 PCL.ModNet.SendRequest
+15:35:16.175 W <39 · L/DlNeoForgeList Official> [ModNet]    在 PCL.ModNet.NetRequestByClient
+15:35:16.175 W <39 · L/DlNeoForgeList Official> [ModNet]    错误类型：System.Net.WebException
+15:35:16.682 I <39 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 30000
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet] 网络请求失败（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge）：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet] ——————— 详细错误信息 ———————
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet] 发送请求时出错。
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 CacheCow.Client.CachingHandler.<SendAsync>d__46.MoveNext
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet] --- 引发异常的上一位置中堆栈跟踪的末尾 ------ 引发异常的上一位置中堆栈跟踪的末尾 ---
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 MeloongCore.Extensions.TaskExtensions.Run[T]
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 PCL.ModBase.GetResultWithTimeout[T]
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 PCL.ModNet._Closure$__9-0._Lambda$__0
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 ThrottleDebounce.Retrier.Attempt
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 PCL.ModNet.SendRequest
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 PCL.ModNet.NetRequestByClient
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    错误类型：System.Net.Http.HttpRequestException
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet] → 无法连接到远程服务器 (Status=ConnectFailure)
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 System.Net.HttpWebRequest.EndGetResponse
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 System.Net.Http.HttpClientHandler.GetResponseCallback
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    错误类型：System.Net.WebException
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet] → 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。 185.45.7.165:443 (SocketErrorCode=TimedOut)
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 System.Net.Sockets.Socket.InternalEndConnect
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 System.Net.Sockets.Socket.EndConnect
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    在 System.Net.ServicePoint.ConnectSocketInternal
+15:35:37.762 W <39 · L/DlNeoForgeList Official> [ModNet]    错误类型：System.Net.Sockets.SocketException
+15:35:38.275 I <39 · L/DlNeoForgeList Official> [ModNet] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 4000
+15:35:42.279 W <39 · L/DlNeoForgeList Official> [ModNet] 网络请求失败（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge）：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+15:35:42.279 W <39 · L/DlNeoForgeList Official> [ModNet] ——————— 详细错误信息 ———————
+15:35:42.279 W <39 · L/DlNeoForgeList Official> [ModNet] 连接服务器超时，请稍后再试，或使用 VPN 改善网络环境（GET, https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge） (Status=Timeout)
+15:35:42.279 W <39 · L/DlNeoForgeList Official> [ModNet]    在 PCL.ModNet.SendRequest
+15:35:42.279 W <39 · L/DlNeoForgeList Official> [ModNet]    在 PCL.ModNet.NetRequestByClient
+15:35:42.279 W <39 · L/DlNeoForgeList Official> [ModNet]    错误类型：System.Net.WebException
+15:35:42.283 E <39 · L/DlNeoForgeList Official> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Official 状态改变：Failed
+15:35:42.283 W <39 · L/DlNeoForgeList Official> [ModLoader] 加载线程 DlNeoForgeList Official 出错，已完成 100%：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+15:35:42.283 W <39 · L/DlNeoForgeList Official> [ModLoader] ——————— 详细错误信息 ———————
+15:35:42.283 W <39 · L/DlNeoForgeList Official> [ModLoader] 连接服务器超时，请稍后再试，或使用 VPN 改善网络环境（GET, https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge） (Status=Timeout)
+15:35:42.283 W <39 · L/DlNeoForgeList Official> [ModLoader]    在 PCL.ModNet.SendRequest
+15:35:42.283 W <39 · L/DlNeoForgeList Official> [ModLoader]    在 PCL.ModNet.NetRequestByClient
+15:35:42.283 W <39 · L/DlNeoForgeList Official> [ModLoader]    在 PCL.ModNet.NetRequestByClientRetry
+15:35:42.283 W <39 · L/DlNeoForgeList Official> [ModLoader]    在 PCL.ModDownload.DlNeoForgeListOfficialMain
+15:35:42.283 W <39 · L/DlNeoForgeList Official> [ModLoader]    在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0
+15:35:42.283 W <39 · L/DlNeoForgeList Official> [ModLoader]    错误类型：System.Net.WebException
+15:35:42.295 I <36 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Bmclapi 状态改变：Loading
+15:35:42.296 I <64 · L/DlNeoForgeList Bmclapi> [ModNet] 发起网络请求（GET，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/neoforge），最大超时 10000
+15:35:42.362 I <64 · L/DlNeoForgeList Bmclapi> [ModNet] 发起网络请求（GET，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/forge），最大超时 10000
+15:35:42.391 I <64 · L/DlNeoForgeList Bmclapi> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Bmclapi 状态改变：Finished
+15:35:42.402 I <36 · L/DlNeoForgeList Main> [ModLoader] 加载器 LoaderTask`2 DlNeoForgeList Main 状态改变：Finished

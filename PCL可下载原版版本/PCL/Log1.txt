@@ -1,0 +1,151 @@
+[15:39:08.056] <主线程> [Start] 程序版本：正式版 2.12.6.2 (391)
+[15:39:08.059] <主线程> [Start] 识别码：3313-CC5F-738F-D8D0，已解锁反馈主题
+[15:39:08.059] <主线程> [Start] 程序路径：D:\Game\wynn\Plain Craft Launcher.exe
+[15:39:08.059] <主线程> [Start] 系统编码：gb2312 (936, GBK=True)
+[15:39:08.059] <主线程> [Start] 管理员权限：False
+[15:39:08.059] <主线程> [Start] 第一阶段加载用时：80 ms
+[15:39:08.192] <主线程> [Start] 版本号从 413 降低到 391
+[15:39:08.202] <主线程> [UI] 刷新主题：0
+[15:39:08.233] <主线程> [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[15:39:08.234] <主线程> [Start] 第二阶段加载用时：168 ms
+[15:39:08.240] <L/Minecraft Folder List> [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[15:39:08.389] <主线程> [FormMain] 从设置更新背景图片与标题栏样式
+[15:39:08.429] <主线程> [System] 窗口已置顶，位置：(403.333333333333, 234.666666666667), 900 x 550
+[15:39:08.432] <主线程> [Start] 第三阶段加载用时：46 ms
+[15:39:08.432] <Animation> [Animation] 动画线程开始
+[15:39:08.433] <初始化> [Start] 加载 DLL：Newtonsoft.Json
+[15:39:08.433] <初始化> [System] 获取资源：Newtonsoft.Json
+[15:39:08.440] <Version Check> [Minecraft] 当前选择的 Minecraft 文件夹：D:\Game\wynn\.minecraft\
+[15:39:08.475] <主线程> [Loader] 加载器 Loader Skin Ms 状态改变：Loading
+[15:39:08.480] <L/Loader Skin Ms> [Loader] 加载器 Loader Skin Ms 状态改变：Finished
+[15:39:08.497] <初始化> [Java] 缓存中有 7 个可用的 Java：
+[15:39:08.497] <初始化> [Java]  - JDK 26 (26.0.1)：D:\Game\jdk-26.0.1\bin\
+[15:39:08.497] <初始化> [Java]  - JRE 8 (8.0.51)：C:\Users\***\AppData\Roaming\.minecraft\runtime\jre-legacy\bin\
+[15:39:08.499] <初始化> [Java]  - JDK 17 (17.0.19)：C:\Program Files\Eclipse Adoptium\jdk-17.0.19.10-hotspot\bin\
+[15:39:08.499] <初始化> [Java]  - JDK 17 (17.0.15)：C:\Users\***\AppData\Roaming\.minecraft\runtime\java-runtime-beta\bin\
+[15:39:08.499] <初始化> [Java]  - JDK 21 (21.0.7)：C:\Users\***\AppData\Roaming\.minecraft\runtime\java-runtime-delta\bin\
+[15:39:08.499] <初始化> [Java]  - JDK 25 (25.0.1)：C:\Users\***\AppData\Roaming\.minecraft\runtime\java-runtime-epsilon\bin\
+[15:39:08.499] <初始化> [Java]  - JDK 26 (26.0.1)：C:\Program Files\Java\jdk-26.0.1\bin\
+[15:39:08.521] <主线程> [Page] 实例化：清空主页 UI，来源为空
+[15:39:08.525] <主线程> [Skin] 载入头像成功：Loader Skin Ms
+[15:39:08.529] <主线程> [Launch] 当前选择的 Minecraft 版本：D:\Game\wynn\.minecraft\versions\Wynncraft for Lunar Client\
+[15:39:08.531] <主线程> [Minecraft] 启动按钮：Minecraft 版本：D:\Game\wynn\.minecraft\versions\Wynncraft for Lunar Client\
+[15:39:08.533] <主线程> [Loader] 加载器 登录 状态改变：Loading
+[15:39:08.535] <L/登录> [Launch] 登录加载已开始
+[15:39:08.535] <L/登录> [Loader] 加载器 Loader Login Ms 状态改变：Loading
+[15:39:08.537] <L/Loader Login Ms> [Launch] 登录方式：正版（YY_QiuFeng）
+[15:39:08.538] <L/Loader Login Ms> [Launch] 开始微软登录步骤 1/6（刷新登录）
+[15:39:08.540] <主线程> [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 25000
+[15:39:08.541] <主线程> [Start] 加载 DLL：CacheCow.Client.FileStore
+[15:39:08.541] <主线程> [System] 获取资源：CacheCow.Client.FileStore
+[15:39:08.541] <主线程> [Start] 加载 DLL：CacheCow.Common
+[15:39:08.541] <主线程> [System] 获取资源：CacheCow.Common
+[15:39:08.541] <主线程> [Start] 加载 DLL：CacheCow.Client
+[15:39:08.541] <主线程> [System] 获取资源：CacheCow.Client
+[15:39:08.612] <初始化> [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[15:39:08.613] <初始化> [Loader] 加载器 PCL 配置更新 状态改变：Loading
+[15:39:08.613] <TryClearTaskTemp> [System] 开始清理任务缓存文件夹
+[15:39:08.615] <L/DlClientList Mojang> [Net] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+[15:39:08.615] <TryClearTaskTemp> [System] 已清理任务缓存文件夹
+[15:39:08.616] <Telemetry> [System] 匿名数据上报：启动
+[15:39:08.621] <L/PCL 配置更新> [Server] 已读取本地缓存的配置：38
+[15:39:08.621] <L/PCL 配置更新> [Net] 发起网络请求（GET，https://pcl2-server-1253424809.file.myqcloud.com/notice.cfg{CDN}），最大超时 10000
+[15:39:08.704] <L/PCL 配置更新> [Server] 本地公告编号：230，服务器公告：230|414|413|6|38，无需更新
+[15:39:08.706] <L/PCL 配置更新> [Loader] 加载器 PCL 配置更新 状态改变：Finished
+[15:39:08.798] <主线程> [Net] 发起网络请求（POST，https://login.live.com/oauth20_token.srf），最大超时 25000
+[15:39:08.852] <主线程> [Start] 加载 DLL：System.Net.Http.Formatting
+[15:39:08.852] <主线程> [System] 获取资源：System.Net.Http.Formatting
+[15:39:08.903] <L/DlClientList Mojang> [Download] Mojang 官方源加载耗时：288ms，可优先使用官方源
+[15:39:08.904] <L/DlClientList Mojang> [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[15:39:09.156] <主线程> [System] DPI：144，系统版本：Microsoft Windows NT 10.0.26200.0，PCL 位置：D:\Game\wynn\Plain Craft Launcher.exe
+[15:39:09.311] <L/Loader Login Ms> [Launch] 开始微软登录步骤 2/6
+[15:39:09.312] <主线程> [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 25000
+[15:39:09.557] <主线程> [Control] 按下单选按钮：下载
+[15:39:09.575] <主线程> [Net] 发起网络请求（POST，https://user.auth.xboxlive.com/user/authenticate），最大超时 25000
+[15:39:09.617] <主线程> [Loader] 加载器 DlClientList Main 状态改变：Loading
+[15:39:09.624] <主线程> [Control] 切换主要页面：Download, -1
+[15:39:09.624] <L/DlClientList Main> [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[15:39:09.624] <L/DlClientList Mojang> [Net] 发起网络请求（GET，https://launchermeta.mojang.com/mc/game/version_manifest.json），最大超时 10000
+[15:39:09.645] <L/DlClientList Mojang> [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[15:39:09.689] <主线程> [Loader] 加载器 DlOptiFineList Main 状态改变：Loading
+[15:39:09.691] <主线程> [Loader] 加载器 DlLiteLoaderList Main 状态改变：Loading
+[15:39:09.692] <主线程> [Loader] 加载器 DlFabricList Main 状态改变：Loading
+[15:39:09.693] <L/DlOptiFineList Main> [Loader] 加载器 DlOptiFineList Official 状态改变：Loading
+[15:39:09.694] <主线程> [Loader] 加载器 DlNeoForgeList Main 状态改变：Loading
+[15:39:09.695] <L/DlLiteLoaderList Main> [Loader] 加载器 DlLiteLoaderList Official 状态改变：Loading
+[15:39:09.696] <L/DlOptiFineList Official> [Net] 发起网络请求（GET，https://optifine.net/downloads），最大超时 10000
+[15:39:09.696] <L/DlFabricList Main> [Loader] 加载器 DlFabricList Official 状态改变：Loading
+[15:39:09.696] <L/DlLiteLoaderList Official> [Net] 发起网络请求（GET，https://dl.liteloader.com/versions/versions.json），最大超时 10000
+[15:39:09.697] <L/DlFabricList Official> [Net] 发起网络请求（GET，https://meta.fabricmc.net/v2/versions），最大超时 10000
+[15:39:09.697] <L/DlClientList Main> [Loader] 加载器 DlClientList Main 状态改变：Finished
+[15:39:09.697] <L/DlNeoForgeList Main> [Loader] 加载器 DlNeoForgeList Official 状态改变：Loading
+[15:39:09.697] <L/DlNeoForgeList Official> [Net] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 10000
+[15:39:09.702] <ForgeRecommendedRefresh> [Download] 刷新 Forge 推荐版本缓存开始
+[15:39:09.702] <ForgeRecommendedRefresh> [Net] 发起网络请求（GET，https://bmclapi2.bangbang93.com/forge/promos），最大超时 10000
+[15:39:09.706] <ForgeRecommendedRefresh> [Download] 刷新 Forge 推荐版本缓存成功
+[15:39:10.084] <L/Loader Login Ms> [Launch] 开始微软登录步骤 3/6
+[15:39:10.084] <主线程> [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 25000
+[15:39:10.346] <主线程> [Net] 发起网络请求（POST，https://xsts.auth.xboxlive.com/xsts/authorize），最大超时 25000
+[15:39:10.561] <L/DlLiteLoaderList Official> [Loader] 加载器 DlLiteLoaderList Official 状态改变：Finished
+[15:39:10.563] <L/DlLiteLoaderList Main> [Loader] 加载器 DlLiteLoaderList Main 状态改变：Finished
+[15:39:10.578] <L/DlFabricList Official> [Loader] 加载器 DlFabricList Official 状态改变：Finished
+[15:39:10.579] <L/DlFabricList Main> [Loader] 加载器 DlFabricList Main 状态改变：Finished
+[15:39:10.858] <L/Loader Login Ms> [Launch] 开始微软登录步骤 4/6
+[15:39:10.864] <L/Loader Login Ms> [Net] 发起网络请求（POST，https://api.minecraftservices.com/authentication/login_with_xbox），最大超时 10000
+[15:39:10.869] <L/DlOptiFineList Official> [Loader] 加载器 DlOptiFineList Official 状态改变：Finished
+[15:39:10.872] <L/DlOptiFineList Main> [Loader] 加载器 DlOptiFineList Main 状态改变：Finished
+[15:39:10.943] <主线程> [Control] 按下单选按钮：启动
+[15:39:10.944] <主线程> [Control] 切换主要页面：Launch, -1
+[15:39:11.757] <主线程> [Control] 按下图标按钮：BtnTitleMin
+[15:39:11.798] <L/Loader Login Ms> [Launch] 开始微软登录步骤 5/6
+[15:39:11.799] <主线程> [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 25000
+[15:39:12.060] <主线程> [Net] 发起网络请求（GET，https://api.minecraftservices.com/entitlements/mcstore），最大超时 25000
+[15:39:12.592] <L/Loader Login Ms> [Launch] 开始微软登录步骤 6/6
+[15:39:12.592] <主线程> [Net] 发起网络请求（GET，https://api.minecraftservices.com/minecraft/profile），最大超时 25000
+[15:39:12.858] <L/Loader Login Ms> [Launch] 微软登录完成
+[15:39:12.858] <L/Loader Login Ms> [Loader] 加载器 Loader Login Ms 状态改变：Finished
+[15:39:12.867] <L/登录> [Launch] 登录加载已结束
+[15:39:12.867] <L/登录> [Loader] 加载器 登录 状态改变：Finished
+[15:39:19.718] <L/DlNeoForgeList Official> 网络请求失败：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+
+————————————
+详细错误信息：
+连接服务器超时，请稍后再试，或使用 VPN 改善网络环境（GET, https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge，IP：185.45.7.165）
+   在 PCL.ModNet.SendRequest(String Url, HttpMethod Method, Object Content, Dictionary`2 Headers, Boolean SimulateBrowserHeaders, Int32 Timeout, Encoding Encoding)
+   在 PCL.ModNet.NetRequestByClient(String Url, HttpMethod Method, Object Content, String ContentType, String Accept, Int32 Timeout, String[,] Headers, Boolean RequireJson, Encoding Encoding, Boolean SimulateBrowserHeaders, Boolean MakeLog)
+   错误类型：System.Net.WebException
+[15:39:20.223] <L/DlNeoForgeList Official> [Net] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 30000
+[15:39:41.290] <L/DlNeoForgeList Official> 网络请求失败：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+
+————————————
+详细错误信息：
+网络请求失败，请稍后再试，或使用 VPN 改善网络环境（GET, https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge，IP：185.45.7.165）
+   在 PCL.ModNet.SendRequest(String Url, HttpMethod Method, Object Content, Dictionary`2 Headers, Boolean SimulateBrowserHeaders, Int32 Timeout, Encoding Encoding)
+   在 PCL.ModNet.NetRequestByClient(String Url, HttpMethod Method, Object Content, String ContentType, String Accept, Int32 Timeout, String[,] Headers, Boolean RequireJson, Encoding Encoding, Boolean SimulateBrowserHeaders, Boolean MakeLog)
+   错误类型：System.Net.WebException
+[15:39:41.801] <L/DlNeoForgeList Official> [Net] 发起网络请求（GET，https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge），最大超时 4000
+[15:39:45.808] <L/DlNeoForgeList Official> 网络请求失败：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+
+————————————
+详细错误信息：
+连接服务器超时，请稍后再试，或使用 VPN 改善网络环境（GET, https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge，IP：185.45.7.165）
+   在 PCL.ModNet.SendRequest(String Url, HttpMethod Method, Object Content, Dictionary`2 Headers, Boolean SimulateBrowserHeaders, Int32 Timeout, Encoding Encoding)
+   在 PCL.ModNet.NetRequestByClient(String Url, HttpMethod Method, Object Content, String ContentType, String Accept, Int32 Timeout, String[,] Headers, Boolean RequireJson, Encoding Encoding, Boolean SimulateBrowserHeaders, Boolean MakeLog)
+   错误类型：System.Net.WebException
+[15:39:45.810] <L/DlNeoForgeList Official> [Loader] 加载器 DlNeoForgeList Official 状态改变：Failed
+[15:39:45.825] <L/DlNeoForgeList Official> 加载线程 DlNeoForgeList Official (41) 出错，已完成 100%：你的网络环境不佳，请稍后再试，或使用 VPN 改善网络环境。
+
+————————————
+详细错误信息：
+连接服务器超时，请稍后再试，或使用 VPN 改善网络环境（GET, https://maven.neoforged.net/api/maven/versions/releases/net/neoforged/neoforge，IP：185.45.7.165）
+   在 PCL.ModNet.SendRequest(String Url, HttpMethod Method, Object Content, Dictionary`2 Headers, Boolean SimulateBrowserHeaders, Int32 Timeout, Encoding Encoding)
+   在 PCL.ModNet.NetRequestByClient(String Url, HttpMethod Method, Object Content, String ContentType, String Accept, Int32 Timeout, String[,] Headers, Boolean RequireJson, Encoding Encoding, Boolean SimulateBrowserHeaders, Boolean MakeLog)
+   在 PCL.ModNet.NetRequestByClientRetry(String Url, HttpMethod Method, String BackupUrl, Object Content, String ContentType, String Accept, String[,] Headers, Boolean RequireJson, Encoding Encoding, Boolean SimulateBrowserHeaders)
+   在 PCL.ModDownload.DlNeoForgeListOfficialMain(LoaderTask`2 Loader)
+   在 PCL.ModLoader.LoaderTask`2._Closure$__13-0._Lambda$__0()
+   错误类型：System.Net.WebException
+[15:39:45.826] <L/DlNeoForgeList Main> [Loader] 加载器 DlNeoForgeList Bmclapi 状态改变：Loading
+[15:39:45.840] <L/DlNeoForgeList Bmclapi> [Net] 发起网络请求（GET，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/neoforge），最大超时 10000
+[15:39:45.920] <L/DlNeoForgeList Bmclapi> [Net] 发起网络请求（GET，https://bmclapi2.bangbang93.com/neoforge/meta/api/maven/details/releases/net/neoforged/forge），最大超时 10000
+[15:39:46.017] <L/DlNeoForgeList Bmclapi> [Loader] 加载器 DlNeoForgeList Bmclapi 状态改变：Finished
+[15:39:46.027] <L/DlNeoForgeList Main> [Loader] 加载器 DlNeoForgeList Main 状态改变：Finished
